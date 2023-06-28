@@ -1,4 +1,4 @@
-# Mina zkApp: Minaarena
+Mina zkApp: 04 Zkapp Browser Ui
 
 This template uses TypeScript.
 
